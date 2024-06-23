@@ -1,9 +1,0 @@
-chainlit==0.7.700
-langchain==0.2.5
-langchain_community==0.2.5
-langchain_core==0.2.9
-python-dotenv==1.0.1
-langchain_openai==0.1.9
-qdrant-client==1.9.2
-pymupdf==1.23.26
-tiktoken==0.7.0
